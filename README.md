@@ -14,7 +14,8 @@ This plugin add exp, can be increased by taking pills
 1) CD in your resources/[esx] folder
 2) Clone the repository
 3) Import esx_customneeds.sql in your database
-4) Add this in your server.cfg :
+4) Create "locales" folders, and add en.lua
+5) Add this in your server.cfg :
 
 ```
 start esx_customneeds
